@@ -31,12 +31,6 @@
 
 ### 📊 Mis Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joa-labs&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joa-labs&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-</div>
+![Estadísticas de Joa-Labs](https://github-readme-stats.vercel.app/api?username=joa-labs&show_icons=true&theme=tokyonight&hide_border=true)
 
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=joa-labs&style=flat-square&color=blue" alt="profile counter" />
-</div>
+![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=joa-labs&layout=compact&theme=tokyonight&hide_border=true)
